@@ -1,0 +1,161 @@
+[
+    {
+        "id": "100",
+        "categoryId": "001",
+        "name": "Syngonium 'Moonshine'",
+        "price": 19.99,
+        "image": "syngonium",
+        "tags": "decorative",
+        "description": "Syngonium Moonshine is a standout beauty ready to impress with its almost white symmetrical leaves and light green margins - it's impossible to ignore this glowing stunner because the bushy bright foliage lights up any dull space.",
+        "other": "Botanical Name: Syngonium podophyllum Moonshine"
+    },
+    {
+        "id": "101",
+        "categoryId": "001",
+        "name": "Alocasia Pink Dragon",
+        "price": 44.99,
+        "image": "alocasia",
+        "tags": "decorative",
+        "description": "Alocasia Pink Dragon has oval Shaped Alocasia leaves with deep veins. Due to Alocasia Pink Dragons very high moisture requirement, it is suitable indoor environments and outdoors near bodies of water.",
+        "other": "Botanical Name: Alocasia calidora"
+    },
+    {
+        "id": "102",
+        "categoryId": "001",
+        "name": "Pink Hydrangea",
+        "price": 22.99,
+        "image": "hydrangea",
+        "tags": "decorative",
+        "description": "Hardy and long-lasting, with blooms that burst in pink. Will arrive blooming. The small bush blooms in early summer, then re-blooms again late summer or early fall if planted outside. The sturdy stems ensure the flowers are help upright, and make the blooms perfect for cut flower arrangements and indoor decoration. ",
+        "other": "-"
+    },
+    {
+        "id": "103",
+        "categoryId": "001",
+        "name": "Red Apple",
+        "price": 3.96,
+        "image": "apple",
+        "tags": "fruits",
+        "description": "Apple, nature's gift wrapped in a vibrant hue. Bite into the perfect blend of sweetness and crispness, indulging your taste buds with a symphony of flavors.",
+        "other": "-"
+    },{
+        "id": "104",
+        "categoryId": "001",
+        "name": "Lettuce",
+        "price": 1.54,
+        "image": "lettuce",
+        "tags": "vegetables",
+        "description": "lettuce, the vibrant and versatile leafy green that adds a refreshing crunch to your meals. With its crisp texture and mild flavor, lettuce is a staple ingredient in salads, sandwiches, wraps, and various culinary creations.",
+        "other": "-"
+    },
+    {
+        "id": "105",
+        "categoryId": "001",
+        "name": "Avocado",
+        "price": 2.99,
+        "image": "avocado",
+        "tags": "fruits",
+        "description": "Avocado, often referred to as nature's butter, is a versatile and nutritious fruit that offers a myriad of benefits for your health and culinary adventures. With its rich, creamy texture and mild, buttery flavor, avocado has become a beloved ingredient in various dishes and a popular addition to healthy eating plans.",
+        "other": "-"
+    },
+    {
+        "id": "106",
+        "categoryId": "002",
+        "name": "Mystery Seed Packet",
+        "price": 7.99,
+        "image": "mysteryseed",
+        "tags": "vegetables seed",
+        "description": "What will this pack of seed grow? You'll have to grow to know! A small packet of seeds for your home garden. ",
+        "other": "-"
+    },
+    {
+        "id": "107",
+        "categoryId": "002",
+        "name": "Cucumber 'Muncher' Seed Packet",
+        "price": 4.99,
+        "image": "cucumber",
+        "tags": "vegetables seed",
+        "description": "A burpless variety that is not bitter or tough at any stage. Munchers have smooth medium-green fruits. Muncher Cucumbers have healthy and vigorous vines that are prolific growers. One of the most mosaic-resistant varieties, Muncher cucumbers can be harvested for pickling or snacking.",
+        "other": "-"
+    },
+    {
+        "id": "108",
+        "categoryId": "002",
+        "name": "Broccoli 'Waltham 29' Seed Packet",
+        "price": 4.99,
+        "image": "broccoli",
+        "tags": "vegetables seed",
+        "description": "Brassica oleracea var. Developed at the University of Massachusetts Amherst's historic research farm, Waltham Field Station, heirloom Waltham 29 broccoli garden seeds have been cultivated to deliver higher yields, grow more uniform vegetable crops, with more repeat harvests. Native to the brisk New England chill, non-GMO Waltham 29 seeds grow a compact, cold-hardy and open-pollinated American staple for home gardens and Farmers' Markets across the country.",
+        "other": "-"
+    },
+    {
+        "id": "109",
+        "categoryId": "002",
+        "name": "Eggplant 'Long Purple' Seed Packet",
+        "price": 4.99,
+        "image": "eggplant",
+        "tags": "vegetables seed",
+        "description": "The Long Purple variety of eggplant grows to be up to eight to ten inches long . The Long Purple reaches maturity in eighty days and is suitable for grow zones five to twelve. This seed produces club shaped fruit that are 10 inches long by 2 inches in diameter.",
+        "other": "-"
+    },
+    {
+        "id": "110",
+        "categoryId": "002",
+        "name": "Radish 'Cherry Belle' Seed Packetce",
+        "price": 4.99,
+        "image": "radish",
+        "tags": "vegetables seed",
+        "description": "Raphanus sativus. As a member of the Brassicaceae family, related to cabbage and mustard plants, add crisp flavor and mild spice to salads with slices of cherry-red radishes. In temperate regions, radishes are fast-maturing and easy to germinate.",
+        "other": "-"
+    },
+    {
+        "id": "111",
+        "categoryId": "003",
+        "name": "Shears - Black",
+        "price": 32.99,
+        "image": "shears",
+        "tags": "gardening tools",
+        "description": "Double Bow, very sharp sheep shears good for trimming grass in hard to reach places. With no mechanical parts to break, this tool will last a lifetime.",
+        "other": "Size: 12.5' overall"
+    },
+    {
+        "id": "112",
+        "categoryId": "003",
+        "name": "Small Trowel",
+        "price": 27.99,
+        "image": "trowel",
+        "tags": "gardening tools",
+        "description": "Spear & Jackson Traditional Stainless Steel Garden Hand Trowel - This quality, stylish design, and high-performance garden Hand Trowels have a 10-year guarantee. The Hand Trowel has a 5in wooden handle. The head is mirror polished for minimal soil adhesion and rust resistance.",
+        "other": "Size: 11' overall"
+    },
+    {
+        "id": "113",
+        "categoryId": "003",
+        "name": "Gardening Gloves - Black",
+        "price": 14.99,
+        "image": "gloves",
+        "tags": "gardening tools",
+        "description": "The seamless nylon liner provides a snug fit and its flexible construction makes these gloves ideal for precise work requiring maximum dexterity. The knit back offers perspiration-free wear. The thin nitrile coating resists punctures and abrasions while providing excellent feel. Machine washable. New higher cuff! Sold by the pair.",
+        "other": "-"
+    },
+    {
+        "id": "114",
+        "categoryId": "003",
+        "name": "Air Plant Display Hanger - Brass",
+        "price": 14.99,
+        "image": "hangingbrass",
+        "tags": "decorative tools",
+        "description": "The perfect display for your favorite air plant. Makes an impactful statement and a great gift.",
+        "other": "Size: 4 Inches Tall x 3 Inches Wide"
+    },
+    {
+        "id": "115",
+        "categoryId": "003",
+        "name": "Cylinder Planter",
+        "price": 22.99,
+        "image": "lettuce",
+        "tags": "decorative tools",
+        "description": "The ceramic cylinder planters have an attached saucer so your dont have to worry about your plant dripping water. The planters come in two colors in two sizes.",
+        "other": "Size: 4' Inch, 6' Inch"
+    }
+]

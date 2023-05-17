@@ -1,0 +1,58 @@
+[
+    {
+        "id": "001",
+        "name": "Plants",
+        "type": "",
+        "tags": [
+          "fruits",
+          "vegetables",
+          "decoratives"
+        ],
+        "location": "",
+        "distance": 0,
+        "time": 0,
+        "images": {
+          "logo": "plantcategories",
+          "poster": "plantsposter",
+          "cover": "plantsposter"
+        },
+        "categories": ["Plants"]
+    },
+    {
+        "id": "002",
+        "name": "Seeds",
+        "type": "",
+        "tags": [
+          "fruits",
+          "vegetables"
+        ],
+        "location": "",
+        "distance": 0,
+        "time": 0,
+        "images": {
+          "logo": "seedcategories",
+          "poster": "seedsposter",
+          "cover": "seedsposter"
+        },
+        "categories": ["Seeds"]
+      },
+      {
+        "id": "003",
+        "name": "Tools",
+        "type": "",
+        "tags": [
+          "gardening tools",
+          "decorative tools"
+        ],
+        "location": "",
+        "distance": 0,
+        "time": 0,
+        "images": {
+          "logo": "toolcategories",
+          "poster": "toolsposter",
+          "cover": "toolsposter"
+        },
+        "categories": ["Tools"]
+      }
+
+]
